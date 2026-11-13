@@ -57,5 +57,3 @@ jobs:
           path: dist/roadwise-debug.apk
           if-no-files-found: error
           retention-days: 14
-
-          retention-days: 14
