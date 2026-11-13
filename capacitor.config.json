@@ -1,0 +1,7 @@
+{
+  "appId": "com.example.roadwise",
+  "appName": "Roadwise Driving",
+  "webDir": "www",
+  "backgroundColor": "#10151c",
+  "android": { "allowMixedContent": false }
+}
